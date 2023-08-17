@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+.foodContainer{
+  perspective: 800px;
+}
+.foodCard{
+  position: relative;
+  width: 200px;
+  height: 250px;
+  border:2px solid
+  rgba(255, 255, 255, .25)
+  border
+}
